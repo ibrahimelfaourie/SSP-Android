@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projektSSP</string>
+    <string name="startbutton">STARTA</string>
+    <string name="title">Sten Sax och Påse</string>
+    <string name="roundstitle">Välj antal rundor att spela</string>
+    <string name="roundsNo">Rundor</string>
+    <string name="sten">Sten</string>
+    <string name="sax">Sax</string>
+    <string name="påse">Påse</string>
+    <string name="rounds1">Bäst av 3</string>
+    <string name="rounds2">Bäst av 5</string>
+    <string name="rounds3">Bäst av 7</string>
+    <string name="rounds4">Bäst av 9</string>
+    <string name="gamemode">Spellägen</string>
+    <string name="player">Spelare</string>
+    <string name="cpu">Dator</string>
+    <string name="resultTitle">Resultat</string>
+    <string name="rounds5">Bäst av 11</string>
+    <string name="rounds6">Bäst av 13</string>
+    <string name="homeButton">Hem</string>
+</resources>

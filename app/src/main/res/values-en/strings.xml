@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projektSSP</string>
+    <string name="startbutton">START</string>
+    <string name="title">Rock Paper and Scissors</string>
+    <string name="rounds1">Best of 3</string>
+    <string name="rounds2">Best of 5</string>
+    <string name="rounds3">Best of 7</string>
+    <string name="rounds4">Best of 9</string>
+    <string name="gamemode">Game Mode</string>
+    <string name="roundstitle">Choose how many rounds you want to play!</string>
+    <string name="roundsNo">Rounds</string>
+    <string name="sten">Rock</string>
+    <string name="sax">Scissors</string>
+    <string name="påse">Paper</string>
+    <string name="player">Player</string>
+    <string name="cpu">CPU</string>
+    <string name="resultTitle">Result</string>
+    <string name="rounds5">Best of 11</string>
+    <string name="rounds6">Best of 13</string>
+    <string name="homeButton">Home</string>
+</resources>
